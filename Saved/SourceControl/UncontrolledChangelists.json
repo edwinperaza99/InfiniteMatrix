@@ -8,7 +8,11 @@
 				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
-				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
+				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Edwin/Documents/GitHub/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
 			]
 		}
 	]
